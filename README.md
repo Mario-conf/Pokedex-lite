@@ -2,7 +2,7 @@
 
 ---
 
-![Pokedex]([/pokemon_images/Pokedex.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhistorias-fakemon.fandom.com%2Fes%2Fwiki%2FPok%25C3%25A9dex&psig=AOvVaw1FbaLj5n9IbCUr4d8bpjPx&ust=1705147091200000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjM04rm14MDFQAAAAAdAAAAABAD))
+![Pokedex]([[/pokemon_images/Pokedex.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhistorias-fakemon.fandom.com%2Fes%2Fwiki%2FPok%25C3%25A9dex&psig=AOvVaw1FbaLj5n9IbCUr4d8bpjPx&ust=1705147091200000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjM04rm14MDFQAAAAAdAAAAABAD)](https://static.wikia.nocookie.net/historias-fakemon/images/b/b7/Pok%C3%A9dex_GenI_Kanto.png/revision/latest?cb=20160201033311&path-prefix=es))
 
 ### Descripción
 
@@ -39,7 +39,7 @@ Si deseas contribuir al desarrollo de la Pokedex, sigue estos pasos:
 
 ---
 
-![Pokedex]([/pokemon_images/Pokedex.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhistorias-fakemon.fandom.com%2Fes%2Fwiki%2FPok%25C3%25A9dex&psig=AOvVaw1FbaLj5n9IbCUr4d8bpjPx&ust=1705147091200000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjM04rm14MDFQAAAAAdAAAAABAD))
+![Pokedex]([/pokemon_images/Pokedex.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhistorias-fakemon.fandom.com%2Fes%2Fwiki%2FPok%25C3%25A9dex&psig=AOvVaw1FbaLj5n9IbCUr4d8bpjPx&ust=1705147091200000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjM04rm14MDFQAAAAAdAAAAABAD)](https://static.wikia.nocookie.net/historias-fakemon/images/b/b7/Pok%C3%A9dex_GenI_Kanto.png/revision/latest?cb=20160201033311&path-prefix=es))
 
 ### Description
 
