@@ -56,7 +56,7 @@ const pokemonImages = [
   "https://assetsio.reedpopcdn.com/pokemon_clefairy.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
   "https://assetsio.reedpopcdn.com/pokemon_clefable.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
   "https://assetsio.reedpopcdn.com/pokemon_vulpix.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
-  "https://assetsio.reedpopcdn.com/pokemon_go_ninetails.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
+  "https://assetsio.reedpopcdn.com/pokemon_ninetails.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
   "https://assetsio.reedpopcdn.com/pokemon_jigglypuff.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
   "https://assetsio.reedpopcdn.com/pokemon_wigglytuff.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
   "https://assetsio.reedpopcdn.com/pokemon_zubat.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
